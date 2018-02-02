@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "163184689993",
+    "firebase_url": "https://secret-chat-6a8ba.firebaseio.com",
+    "project_id": "secret-chat-6a8ba",
+    "storage_bucket": "secret-chat-6a8ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163184689993:android:2ad30aac03544593",
+        "android_client_info": {
+          "package_name": "com.example.jeffreyarias.agentchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163184689993-64rfg366umiiei52e8j71m13jua86edc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5hl5Yf74Jzocn1nB6Qv6oNzu_1zHJXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
